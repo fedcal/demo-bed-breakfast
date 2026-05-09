@@ -1,0 +1,47 @@
+{
+  "tipologie": [
+    {
+      "id": "salentina",
+      "nome": "Colazione Salentina",
+      "descrizione": "Il vero risveglio del Salento: prodotti della tradizione pugliese, dolci artigianali del forno storico di Otranto e marmellate fatte in casa con frutti del giardino.",
+      "prodotti": [
+        { "nome": "Pasticciotto leccese", "descrizione": "Pasta frolla ripiena di crema pasticciera, tipico di Lecce e del Salento. Ogni mattina freschi dal forno.", "tipico": true },
+        { "nome": "Bocconotti", "descrizione": "Dolcetti di pasta frolla ripieni di marmellata di fichi o mandorle, antica ricetta salentina.", "tipico": true },
+        { "nome": "Taralli al vino", "descrizione": "Biscotti salati al vino bianco e semi di finocchio, ideali con marmellata di fichi.", "tipico": true },
+        { "nome": "Friselle integrali", "descrizione": "Pane biscottato pugliese da ammorbidire con acqua, condito con pomodorini, olio EVO e origano.", "tipico": true },
+        { "nome": "Marmellata di fichi del Salento", "descrizione": "Preparata da Lucia con i fichi del giardino, ricetta della nonna Rosa.", "tipico": true },
+        { "nome": "Marmellata di arance amare", "descrizione": "Agrumi locali raccolti in gennaio, lavorati artigianalmente.", "tipico": true },
+        { "nome": "Olio EVO salentino DOP", "descrizione": "Olio extravergine di oliva delle olive dei nostri ulivi centenari, spremitura a freddo.", "tipico": true },
+        { "nome": "Formaggi locali", "descrizione": "Ricotta fresca del giorno, caciocavallo di Grottaglie, primosale pugliese.", "tipico": true },
+        { "nome": "Caffè napoletano o americano", "descrizione": "Moka tradizionale o caffè lungo, con miscela selezionata di bar storico di Otranto.", "tipico": false },
+        { "nome": "Succhi di frutta artigianali", "descrizione": "Frullati e succhi di stagione: fico d'India, melograno, arancia.", "tipico": false }
+      ]
+    },
+    {
+      "id": "continentale",
+      "nome": "Colazione Continentale",
+      "descrizione": "Un buon compromesso tra tradizione e praticità: croissant, cereali, yogurt e frutta fresca di stagione.",
+      "prodotti": [
+        { "nome": "Croissant burro e marmellata", "descrizione": "Cornetto artigianale del forno locale, servito con marmellata di fichi o albicocca.", "tipico": false },
+        { "nome": "Yogurt bianco intero", "descrizione": "Yogurt greco cremoso con miele di zagara di Puglia.", "tipico": false },
+        { "nome": "Frutta fresca di stagione", "descrizione": "Macedonia di frutta locale: fichi, uva, melone, cocomero in estate. Clementine e arance in inverno.", "tipico": false },
+        { "nome": "Cereali muesli", "descrizione": "Mix di cereali integrali, uvetta sultanina e fiocchi d'avena.", "tipico": false },
+        { "nome": "Tè in foglie", "descrizione": "Selezione di tè: Earl Grey, camomilla, menta fresca del giardino.", "tipico": false },
+        { "nome": "Caffè espresso o latte", "descrizione": "Macchina espresso professionale, latte fresco intero.", "tipico": false }
+      ]
+    },
+    {
+      "id": "vegana",
+      "nome": "Colazione Vegana",
+      "descrizione": "Su richiesta (da segnalare alla prenotazione): colazione completamente plant-based con prodotti del territorio salentino.",
+      "prodotti": [
+        { "nome": "Friselle con hummus di ceci pugliesi", "descrizione": "Ceci di Zollino, presidio Slow Food, frullati con tahini e limone locale.", "tipico": true },
+        { "nome": "Olive in salamoia", "descrizione": "Olive leccine marinate con aromi del Salento: finocchietto, peperoncino, aglio.", "tipico": true },
+        { "nome": "Frutta fresca locale", "descrizione": "Stagionale: fichi, uva Negramaro, fichi d'India, melograno.", "tipico": false },
+        { "nome": "Latte vegetale (avena/soia/riso)", "descrizione": "A scelta su richiesta in prenotazione.", "tipico": false },
+        { "nome": "Marmellata di fichi vegan", "descrizione": "Stessa ricetta della nonna, confermata senza prodotti animali.", "tipico": true },
+        { "nome": "Pane integrale artigianale", "descrizione": "Pane di Altamura integrale, lievitazione naturale 24h.", "tipico": true }
+      ]
+    }
+  ]
+}

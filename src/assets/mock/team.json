@@ -1,0 +1,31 @@
+{
+  "team": [
+    {
+      "id": 1,
+      "nome": "Lucia Greco",
+      "ruolo": "Fondatrice e Proprietaria",
+      "bio": "Lucia ha aperto Casa Lucia nel 2010 dopo vent'anni di lavoro nell'ospitalità. Nata a Otranto, ha trasformato la casa di famiglia in un rifugio autentico per chi vuole scoprire il Salento vero, lontano dal turismo di massa. Ogni mattina prepara personalmente la colazione con ricette della nonna Rosa.",
+      "anniEsperienza": 16,
+      "image": "/assets/img/team/lucia.jpg",
+      "specialita": ["Ospitalità familiare", "Cucina salentina", "Territorio e tradizioni"]
+    },
+    {
+      "id": 2,
+      "nome": "Sofia Greco",
+      "ruolo": "Gestione Operativa",
+      "bio": "Figlia di Lucia, Sofia gestisce prenotazioni, social media e l'accoglienza degli ospiti. Ha studiato Turismo e Marketing a Lecce e porta un tocco moderno mantenendo intatta l'anima del B&B di famiglia. Parla italiano, inglese e francese.",
+      "anniEsperienza": 5,
+      "image": "/assets/img/team/sofia.jpg",
+      "specialita": ["Prenotazioni", "Social media", "Lingue straniere"]
+    },
+    {
+      "id": 3,
+      "nome": "Antonio Longo",
+      "ruolo": "Pulizie e Manutenzione",
+      "bio": "Antonio collabora con il B&B dal 2015. Garantisce la pulizia impeccabile delle camere e si occupa della manutenzione della struttura e del giardino con gli ulivi centenari. Cresciuto a Otranto, conosce ogni angolo della città.",
+      "anniEsperienza": 11,
+      "image": "/assets/img/team/antonio.jpg",
+      "specialita": ["Pulizie professionali", "Manutenzione", "Giardino"]
+    }
+  ]
+}

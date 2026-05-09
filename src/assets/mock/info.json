@@ -1,0 +1,45 @@
+{
+  "ragioneSociale": "Casa Lucia di Lucia Greco",
+  "nomeCommerciale": "Casa Lucia — B&B nel cuore del Salento",
+  "tagline": "Il tuo rifugio nel Salento dal 2010",
+  "indirizzo": {
+    "via": "Via dei Pescatori 8",
+    "citta": "Otranto",
+    "provincia": "LE",
+    "cap": "73028",
+    "regione": "Puglia",
+    "paese": "Italia",
+    "lat": 40.1467,
+    "lng": 18.4920
+  },
+  "contatti": {
+    "telefono": "+39 0836 555 0123",
+    "whatsapp": "+39 333 9876 543",
+    "email": "info@casalucia-otranto.it",
+    "social": {
+      "instagram": "https://instagram.com/casalucia_otranto_demo",
+      "facebook": "https://facebook.com/casalucia_otranto_demo"
+    }
+  },
+  "orari": {
+    "checkIn": "14:00 – 20:00",
+    "checkOut": "entro le 11:00"
+  },
+  "servizi": {
+    "consegnaDomicilio": false,
+    "parcheggioConvenzionato": true,
+    "distanzaParcheggioMetri": 50,
+    "accessibileDisabili": true,
+    "petFriendly": true,
+    "wifiGratuito": true,
+    "ariaCondizionata": true,
+    "terrazzeVistaMare": true,
+    "colazioneInclusa": true,
+    "numeroCamere": 4
+  },
+  "metaSeo": {
+    "title": "Casa Lucia — B&B nel cuore del Salento | Otranto",
+    "description": "B&B a gestione familiare nel centro storico di Otranto, Salento. 4 camere, colazione tipica salentina, terrazza vista mare. Animali ammessi. Aperto dal 2010.",
+    "keywords": ["bed breakfast otranto", "b&b salento", "affittacamere lecce", "vacanze salento", "casa vacanze otranto"]
+  }
+}

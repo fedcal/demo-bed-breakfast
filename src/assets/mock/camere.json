@@ -1,0 +1,90 @@
+{
+  "camere": [
+    {
+      "id": 1,
+      "nome": "Camera Bianca",
+      "tipo": "Matrimoniale",
+      "metriQuadri": 18,
+      "descrizione": "Luminosa camera matrimoniale con pareti imbiancate a calce, soffitto a volta in tufo e pavimento in cotto pugliese. Affaccia sul caratteristico cortile interno con piante di fico e ulivo. Ideale per coppie che cercano autenticità salentina.",
+      "prezzoBassStagione": 75,
+      "prezzoMediaStagione": 110,
+      "prezzoAltaStagione": 155,
+      "servizi": [
+        { "nome": "Wi-Fi gratuito", "incluso": true },
+        { "nome": "Aria condizionata", "incluso": true },
+        { "nome": "Bagno privato con doccia", "incluso": true },
+        { "nome": "Set cortesia", "incluso": true },
+        { "nome": "Cassaforte", "incluso": true }
+      ],
+      "vista": "cortile",
+      "occupazioneMax": 2,
+      "emoji": "🏠"
+    },
+    {
+      "id": 2,
+      "nome": "Camera degli Ulivi",
+      "tipo": "Tripla",
+      "metriQuadri": 24,
+      "descrizione": "Spaziosa camera tripla con vista sul giardino privato con ulivi centenari. Dotata di letto matrimoniale e singolo, perfetta per famiglie o gruppi di amici. Il soffitto a stelle in cartapesta è tipico della tradizione barocca leccese.",
+      "prezzoBassStagione": 90,
+      "prezzoMediaStagione": 130,
+      "prezzoAltaStagione": 175,
+      "servizi": [
+        { "nome": "Wi-Fi gratuito", "incluso": true },
+        { "nome": "Aria condizionata", "incluso": true },
+        { "nome": "Bagno privato con doccia", "incluso": true },
+        { "nome": "Set cortesia", "incluso": true },
+        { "nome": "Frigorifero", "incluso": true },
+        { "nome": "Culla su richiesta", "incluso": true }
+      ],
+      "vista": "giardino",
+      "occupazioneMax": 3,
+      "emoji": "🌿"
+    },
+    {
+      "id": 3,
+      "nome": "Camera Azzurra",
+      "tipo": "Matrimoniale",
+      "metriQuadri": 20,
+      "descrizione": "Camera matrimoniale con balcone privato e vista parziale sul mare Adriatico. Toni azzurri ispirati alle acque del Salento, arredi in legno di recupero, ceramiche di Grottaglie. La posizione privilegiata permette di sentire la brezza marina.",
+      "prezzoBassStagione": 85,
+      "prezzoMediaStagione": 125,
+      "prezzoAltaStagione": 170,
+      "servizi": [
+        { "nome": "Wi-Fi gratuito", "incluso": true },
+        { "nome": "Aria condizionata", "incluso": true },
+        { "nome": "Bagno privato con doccia", "incluso": true },
+        { "nome": "Balcone vista mare", "incluso": true },
+        { "nome": "Set cortesia premium", "incluso": true },
+        { "nome": "Cassaforte", "incluso": true }
+      ],
+      "vista": "mare",
+      "occupazioneMax": 2,
+      "emoji": "🌊"
+    },
+    {
+      "id": 4,
+      "nome": "Suite Tramonto",
+      "tipo": "Suite",
+      "metriQuadri": 38,
+      "descrizione": "La nostra suite panoramica al piano superiore con terrazza privata e vista spettacolare sul Mar Adriatico e sul castello Aragonese di Otranto. Camera da letto separata, salottino, mini-bar. Il tramonto sul mare dalla terrazza è un'esperienza unica. Ideale per anniversari e luna di miele.",
+      "prezzoBassStagione": 130,
+      "prezzoMediaStagione": 185,
+      "prezzoAltaStagione": 250,
+      "servizi": [
+        { "nome": "Wi-Fi gratuito", "incluso": true },
+        { "nome": "Aria condizionata", "incluso": true },
+        { "nome": "Bagno privato con vasca e doccia", "incluso": true },
+        { "nome": "Terrazza privata vista mare", "incluso": true },
+        { "nome": "Mini-bar", "incluso": true },
+        { "nome": "Set cortesia premium", "incluso": true },
+        { "nome": "Smart TV", "incluso": true },
+        { "nome": "Cassaforte", "incluso": true },
+        { "nome": "Accappatoi e pantofole", "incluso": true }
+      ],
+      "vista": "mare",
+      "occupazioneMax": 4,
+      "emoji": "🌅"
+    }
+  ]
+}

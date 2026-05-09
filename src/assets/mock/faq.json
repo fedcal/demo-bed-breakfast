@@ -1,0 +1,44 @@
+{
+  "faq": [
+    {
+      "domanda": "Come posso prenotare una camera?",
+      "risposta": "Puoi prenotare tramite il modulo di contatto nella pagina Prenota, oppure chiamare o inviare un WhatsApp al +39 333 9876 543. Confermiamo la disponibilità entro poche ore e inviamo i dettagli per il pagamento dell'acconto (30%)."
+    },
+    {
+      "domanda": "Qual è la politica di cancellazione?",
+      "risposta": "Cancellazione gratuita fino a 7 giorni prima dell'arrivo. Per cancellazioni tra 7 e 3 giorni prima, rimborso del 50% dell'acconto. Per cancellazioni a meno di 72 ore dall'arrivo, l'acconto non è rimborsabile. In caso di no-show, viene addebitata l'intera prima notte."
+    },
+    {
+      "domanda": "Gli animali domestici sono ammessi?",
+      "risposta": "Sì, accettiamo animali domestici di piccola e media taglia (fino a 15kg) in tutte le camere, con un supplemento di €10/notte. Vi chiediamo di segnalarlo in fase di prenotazione. Il giardino è recintato e adatto agli animali."
+    },
+    {
+      "domanda": "La struttura è accessibile per persone con disabilità?",
+      "risposta": "L'ingresso e una camera al piano terra (Camera Bianca) sono accessibili con sedia a rotelle. Il bagno della Camera Bianca ha doccia a filo pavimento e maniglioni di supporto. Contattarci per esigenze specifiche."
+    },
+    {
+      "domanda": "C'è il parcheggio?",
+      "risposta": "Non abbiamo parcheggio privato, ma abbiamo convenzione con il parcheggio custodito a soli 50 metri dalla struttura (Parcheggio Porto Badisco). I nostri ospiti usufruiscono di tariffa convenzionata €5/giorno invece di €8. Vi forniremo il tagliando all'arrivo."
+    },
+    {
+      "domanda": "Come si raggiunge Casa Lucia dall'aeroporto di Brindisi?",
+      "risposta": "L'aeroporto di Brindisi dista circa 90 km (1h15 in auto). In alternativa: treno Brindisi-Lecce (40 min) + bus Lecce-Otranto (1h10). Offriamo servizio taxi convenzionato su richiesta: circa €65 dal Brindisi Airport. Contattarci per organizzare il transfer."
+    },
+    {
+      "domanda": "Organizzate escursioni o attività nel Salento?",
+      "risposta": "Non organizziamo escursioni direttamente, ma collaboriamo con guide locali certificate. Su richiesta consigliamo: tour in barca alle Grotte della Poesia, visita al centro storico di Otranto con guida (Cattedrale e il suo mosaico medievale), escursioni in bicicletta sulla litoranea, laboratori di ceramica a Grottaglie."
+    },
+    {
+      "domanda": "A che ora è servita la colazione?",
+      "risposta": "La colazione è servita ogni mattina dalle 8:00 alle 10:00 nella sala comune o in terrazza (in estate). La colazione salentina tipica è inclusa nel prezzo. Per esigenze speciali (vegana, celiaca, allergie) è necessario segnalarlo alla prenotazione con almeno 24h di anticipo."
+    },
+    {
+      "domanda": "Quali sono i metodi di pagamento accettati?",
+      "risposta": "Accettiamo carte di credito/debito (Visa, Mastercard, American Express), bonifico bancario (per prenotazioni con largo anticipo) e contanti. L'acconto del 30% alla prenotazione può essere effettuato tramite carta o bonifico. Il saldo al check-in."
+    },
+    {
+      "domanda": "Il Wi-Fi funziona bene? Posso lavorare in remoto?",
+      "risposta": "Sì, offriamo fibra ottica con velocità fino a 100 Mbit/s in tutta la struttura. La sala comune è attrezzata con scrivania e lampada da lavoro. Molti nostri ospiti sono nomadi digitali che scelgono Casa Lucia come base estiva per il lavoro da remoto nel Salento."
+    }
+  ]
+}
