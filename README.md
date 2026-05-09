@@ -3,14 +3,14 @@
 Template **Angular 21 SSR** open-source per sito vetrina **Bed and Breakfast** (PMI italiane).
 
 [![Demo live](https://img.shields.io/badge/demo-live-brightgreen)](https://bed-breakfast.demo.federicocalo.dev)
-[![Docs](https://img.shields.io/badge/docs-VitePress-blue)](https://fedcal.github.io/federico-demo-bed-breakfast/)
+[![Docs](https://img.shields.io/badge/docs-VitePress-blue)](https://fedcal.github.io/demo-bed-breakfast/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## Quick start
 
 ```bash
-git clone https://github.com/fedcal/federico-demo-bed-breakfast.git
-cd federico-demo-bed-breakfast
+git clone https://github.com/fedcal/demo-bed-breakfast.git
+cd demo-bed-breakfast
 npm install
 npm start
 ```
@@ -36,7 +36,7 @@ npm run serve:ssr:bed-breakfast
 
 ## Documentazione completa
 
-→ https://fedcal.github.io/federico-demo-bed-breakfast/
+→ https://fedcal.github.io/demo-bed-breakfast/
 
 ## Hub demos Federico
 

@@ -1,5 +1,5 @@
 {
-  "name": "federico-demo-bed-breakfast",
+  "name": "demo-bed-breakfast",
   "version": "0.1.0",
   "description": "Angular 21 SSR demo template per Bed and Breakfast — Federico Calò",
   "private": true,
@@ -7,7 +7,7 @@
   "homepage": "https://bed-breakfast.demo.federicocalo.dev",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fedcal/federico-demo-bed-breakfast.git"
+    "url": "https://github.com/fedcal/demo-bed-breakfast.git"
   },
   "scripts": {
     "ng": "ng",
